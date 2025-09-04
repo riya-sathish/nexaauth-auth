@@ -1,0 +1,116 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+ font-family: "Zen Kaku Gothic Antique", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.muted{
+  color: gray;
+  font-size: 8px;
+  padding-top: 5px;
+}
+
+.font-h1{
+
+  font-size: 15px;
+
+}
+.font-h2{
+  font-size: 15px;
+}
+span{
+  color: rgb(137, 137, 137);
+  font-size: 10px;
+  padding:0 10px ;
+}
+.logo{
+  color: rgb(2, 55, 98);
+  padding-bottom: 10px;
+  
+}
+.line{
+display: inline-block;
+width: 23%;
+border: 0.5px solid rgb(189, 187, 187);
+}
+.line-container{
+  display: flex;
+  align-items: center;
+}
+.btn-google{
+  background-color: rgb(227, 240, 255);
+  border: none;
+  padding: 5px 28px 5px 28px;
+  border-radius: 15px;
+  font-size: 10px;
+  margin: 10px 0;
+  color: rgb(66, 66, 66);
+
+}
+
+.page {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100vh;
+  padding: 20px;
+}
+
+.left {
+  width: 30%; 
+}
+
+.right {
+  width: 40%; 
+}
+.right img{
+height:300PX;
+}
+input{
+  background-color: rgb(240, 243, 243);
+  border: none;
+  font-size: 10px;
+  padding: 5px 45px 5px 20px;
+  border-radius: 3px;
+  outline: none;
+  margin: 5px 0;
+}
+
+
+.signing{
+  font-size: 6px;
+  padding: 5px 0 0 0;
+  color: gray;
+}
+
+.small{
+  font-size: 8px;
+  color: gray;
+  text-align: center;
+  width: 100%
+}
+
+.styling{
+  color: black;
+  text-decoration-color: gray;
+  font-size: 6.5px;
+}
+
+.businesss{
+height: 20px;
+}
+.googlelogo{
+height: 20px;
+
+}
+.btn-google{
+display: flex;
+align-items: center;
+gap: 10PX;
+}
+.padd{
+  padding: 5px;
+}
