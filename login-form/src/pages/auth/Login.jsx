@@ -8,7 +8,7 @@ import Button from "../../component/ui/Button/Button"
 const Login = () => {
   return (
     <AuthLayout>
-<div className="logo">  <img className="businesss" src={mainlogo} alt="business logo"/> uBrand</div>
+<div className="logo">  <img className="businesss" src={mainlogo} alt="business logo"/> Nexaauth</div>
 <h3 className="muted">WELCOME BACK</h3>
 <h2 className="font-h2" >Continue to your Account.</h2>
 <button className="btn-google" type="button"

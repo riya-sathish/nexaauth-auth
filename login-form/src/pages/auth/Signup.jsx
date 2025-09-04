@@ -10,7 +10,7 @@ const Signup = () => {
   return (
 <AuthLayout>
 <div className="logo">
-  <img className="businesss" src={mainlogo} alt="business logo"/>uBrand</div>
+  <img className="businesss" src={mainlogo} alt="business logo"/>Nexaauth</div>
 <h1 className="font-h1">Start your 14-day Free Trial Today.</h1>
 <p className="muted">NO CREDIT CARD REQUIRED !</p>
 <button className="btn-google" type="button"
